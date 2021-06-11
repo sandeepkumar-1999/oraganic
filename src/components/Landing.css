@@ -1,0 +1,53 @@
+
+
+.landing
+{
+    position: relative;
+    margin:0 auto 40rem;
+}
+
+.heading
+{
+  font-size: 3rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.32;
+  letter-spacing: normal;
+  text-align: left;
+  color:#374b5c
+}
+
+.smallHeading
+{
+    margin: 10rem auto 0;
+    font-size: 1.5rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color:#374b5c
+}
+
+.logo
+{
+
+    padding: 64.5px 65.3px 65px 66px;
+    border: solid 3px #00dbd0;
+    position: absolute;
+    top: 14.5rem;
+    right:0;
+}
+
+.flower
+{   
+    height: 32rem;
+    width: 24rem;
+    position:absolute;
+    top:12.5rem;
+    right: 12rem;
+    z-index: 99;
+    /* margin: 12.5rem 0 0; */
+}
