@@ -1,4 +1,4 @@
-import {Navbar,Container,Nav} from "react-bootstrap"
+import {Navbar,Container,Nav} from 'react-bootstrap'
 import logo from '../assets/img/logo.png'
 import './Nav.css'
 function NavBar() {
@@ -11,9 +11,9 @@ function NavBar() {
                         <span className="organic">organic</span></Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
-                        <Nav className="me-auto">
+                        <Nav className="me-auto navList">
                             <Nav.Link href="#home" className="navItem">Home</Nav.Link>
-                            <Nav.Link href="#link" className="navItem">Poducts</Nav.Link>
+                            <Nav.Link href="#link" className="navItem">Products</Nav.Link>
                             <Nav.Link href="#home" className="navItem">Blog</Nav.Link>
                             <Nav.Link href="#link" className="navItem">About Us</Nav.Link>
                             <Nav.Link href="#link" className="navItem">Contact</Nav.Link>

@@ -8,8 +8,8 @@ function Landing() {
         <div>
             <Container className="landing">
                 <Row>
-                    <Col xs={5}>
-                        <p className="smallHeading">Healthy Life With</p>
+                    <Col >
+                        <p className="smallHeading">Healthy life with</p>
                         <p className="heading">Natural Organic</p>
                         <p className="smallText">Vegetables are the edible part of a plant that is used in cooking or can be eaten now.</p>
                     </Col>

@@ -8,7 +8,7 @@
 
 .heading
 {
-  font-size: 3rem;
+  font-size: 56px;
   font-weight: bold;
   font-stretch: normal;
   font-style: normal;
@@ -21,7 +21,7 @@
 .smallHeading
 {
     margin: 10rem auto 0;
-    font-size: 1.5rem;
+    font-size: 36px;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -29,6 +29,15 @@
     letter-spacing: normal;
     text-align: left;
     color:#374b5c
+}
+
+.smallText
+{
+    font-size: 1.3rem;
+    width: 29rem;
+    margin-top: 2rem;
+    color: #374b5c;
+    text-align: left;
 }
 
 .logo

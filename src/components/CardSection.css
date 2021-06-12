@@ -1,0 +1,20 @@
+.CardSection
+{
+    padding: 5rem;
+    background-color: white;
+    color: #374b5c;
+}
+
+.HeadingNature
+{
+    font-size: 2rem;
+    
+}
+
+.TextNature
+{
+    margin: 0 auto 1rem;
+    text-align: center;
+    font-size: 1rem;
+    width: 38rem;
+}
