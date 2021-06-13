@@ -20,6 +20,10 @@
   }
 
   .navItem{
-    color: #374b5c;
+    color: #374b5c !important;
     font-size: 1.2rem;
+  }
+
+  .Active{
+    border-bottom: solid #00dbd0 2px;
   }

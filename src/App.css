@@ -1,13 +1,19 @@
 
 .App {
   text-align: center;
-  background-color: #f1fefe;
-  background-image: linear-gradient(to bottom,#f1fefe,rgba(241, 254, 254, 0));
+  
+  color: #374b37;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.navLand
+{
+  background-color: #f1fefe;
+  background-image: linear-gradient(to bottom,#f1fefe,rgba(241, 254, 254, 0));
 }
 
 @media (prefers-reduced-motion: no-preference) {

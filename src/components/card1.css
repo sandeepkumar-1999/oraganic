@@ -1,0 +1,41 @@
+.BlogCard
+{
+  border-color: transparent;
+}
+
+.blogCardHeading
+{
+  width: 9rem;
+  margin: 1rem auto;
+  font-size: 1.125rem;
+  color: #00dbd0;
+}
+
+.CardImg
+{
+  border-top-left-radius: 10%;
+  border-top-right-radius: 10%;
+}
+
+.blogCardText
+{
+  font-size: 0.875rem;
+}
+
+.Read 
+{
+  font-size: 1rem;
+}
+
+.BlogBorder
+{
+  border-bottom: solid #00dbd0 2px;
+  width: 2.25rem;
+  margin: 1rem auto 0;
+}
+
+.contact
+{
+  border:solid #00dbd0 2px;
+  border-radius: 25%;
+}
