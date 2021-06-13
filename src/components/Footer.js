@@ -20,7 +20,7 @@ function Footer() {
                             <Col>Products</Col>
                             <Col>Products</Col>
                         </Row>
-                        <Row className="contact">
+                        <Row className="">
                             <Col>Contact Us</Col>
                             <Col></Col>
                         </Row>

@@ -3,7 +3,8 @@
 .landing
 {
     position: relative;
-    margin:0 auto 40rem;
+    margin:0 auto -5rem;
+    padding: 0 0 20rem;
 }
 
 .heading
