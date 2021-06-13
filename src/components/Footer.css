@@ -20,40 +20,95 @@
     padding-top: 2rem;
 }
 
-.infoHeading
-{
-        
+.infofootercol{
+        text-align: center;
+        padding-top: 2rem;
+
 }
 
-
+.infoHeading{
+        text-align: left;
+        padding-left: 2.5rem;
+        padding-bottom: 1.5rem;
+}
 
 
 .footerCol
 {
         padding:0 5rem;
-        padding-top: 2rem;
+        padding-bottom: 5rem;
 }
 
 .text
 {
-        /* width: 319px;
+        width: 319px;
         height: 44px;
-       
+        text-align: center;
         font-family: LibreBaskerville;
         font-size: 14px;
         font-weight: normal;
         font-stretch: normal;
         font-style: normal;
         line-height: 1.79;
-        letter-spacing: normal;*/
-        
+        letter-spacing: normal;
         color: #ffffff;
-        padding-top: 2rem;
-    
-
+        padding-top: 1.5rem;
 }
+
+
+
+.Copyright{
+        width: 10.438rem;
+        height: 1.188rem;
+        margin: 0.668rem 9.5rem 3.176rem 4.468rem;
+        font-family: LibreBaskerville;
+        font-size: 0.875rem;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.36;
+        padding-top: 5rem;
+        letter-spacing: normal;
+        text-align: left;
+        color: #ffffff;
+      }
 .follow
 {
     color:white;
     text-align: right;
+
+}
+.insta{
+        padding: 0.5rem;
+        padding-bottom: 5rem;
+}
+
+.linkedln{
+        padding: 0.5rem;
+        padding-bottom: 5rem;
+}
+.fb{
+        padding: 0.5rem;
+        padding-bottom: 5rem;
+}
+
+.follow{
+        
+        text-align: center;
+}
+
+.about{
+        padding-bottom: 1rem;
+}
+
+.pro{
+        padding-bottom: 1rem;
+}
+
+.contact{
+        padding-top: 1rem;
+}
+
+.terms{
+        padding-top: 1rem;
 }
